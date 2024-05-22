@@ -10,7 +10,7 @@ Demo link: https://drive.google.com/file/d/1cz4KUdeU9eg18cSQgtITo3Wnbp5YQQA5/vie
 
 
 
-#### Self-defined Specifications: 
+### Specifications: 
 *Platforms Mechanics* - The game must randomly generate where blocks are produced such that the player has to change the direction of their gravity. 
 These blocks will be displayed on screen, detect when the player collides, and behave as a physical obstacle to the player.
 
